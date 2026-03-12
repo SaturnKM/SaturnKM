@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=16&duration=3000&pause=800&color=C4956A&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Solo+developer+%7C+UI%2FUX+%7C+Robotics;Building+from+Algeria+%E2%9C%A6+Competing+at+ITC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=16&duration=3000&pause=800&color=C4956A&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Solo+dev+%7C+Game+Dev+%7C+UI%2FUX+beginner;Robotics+lover+%7C+Building+from+Algeria+%E2%9C%A6" alt="Typing SVG" />
 
 </div>
 
@@ -30,15 +30,15 @@
 ```
   Handle  ──────  SaturnKM
   Location ─────  Algeria  🇩🇿
-  Status  ──────  Solo dev · ITC Competitor · Shipping in production
-  Orbit   ──────  UI/UX · Godot · Robotics · Android
+  Status  ──────  Solo dev · Always building · Always learning
+  Orbit   ──────  Game Dev · UI/UX (beginner) · Robotics · Android
 ```
 
 <br/>
 
-I build things alone — fast, clean, and shipped. Currently competing in the **ITC (Innovation and Technology Competition)** as a solo entry against full teams, with a focus on Health Tech. I care deeply about design: every pixel, every interaction, every flow.
+I build things alone — games, apps, and whatever weird idea hits next. Solo dev by choice, learning UI/UX along the way, and deeply in love with robotics and how things move in the real world.
 
-When I'm not pushing commits, I'm thinking about spatial design, game systems, and how software can feel *alive*.
+When I'm not pushing commits, I'm thinking about game systems, robot diagrams, and how software can feel *alive*.
 
 <br/>
 
@@ -60,18 +60,22 @@ When I'm not pushing commits, I'm thinking about spatial design, game systems, a
 
 **🎨 &nbsp; Design & UI/UX**
 
-![Figma](https://img.shields.io/badge/Figma-1A1612?style=for-the-badge&logo=figma&logoColor=D4C4A8)
-![UI Design](https://img.shields.io/badge/UI%2FUX_Design-2A1F14?style=for-the-badge&logoColor=C4956A)
+![UI Design](https://img.shields.io/badge/UI%2FUX_(beginner)-2A1F14?style=for-the-badge&logoColor=C4956A)
+![Aseprite](https://img.shields.io/badge/Aseprite-1A1612?style=for-the-badge&logo=aseprite&logoColor=D4C4A8)
 
 **🤖 &nbsp; Robotics & Hardware**
 
-![Robotics](https://img.shields.io/badge/Robotics-1A1612?style=for-the-badge&logo=raspberrypi&logoColor=C4956A)
+![Robotics](https://img.shields.io/badge/Robot_Lover-2A1F14?style=for-the-badge&logo=raspberrypi&logoColor=C4956A)
+![Diagrams](https://img.shields.io/badge/Diagram_Making-1A1612?style=for-the-badge&logoColor=D4C4A8)
 
 **🛠 &nbsp; Tools**
 
-![Git](https://img.shields.io/badge/Git-2A1F14?style=for-the-badge&logo=git&logoColor=C4956A)
-![VS Code](https://img.shields.io/badge/VS_Code-1A1612?style=for-the-badge&logo=visualstudiocode&logoColor=D4C4A8)
-![Discord](https://img.shields.io/badge/Discord-2A1F14?style=for-the-badge&logo=discord&logoColor=C4956A)
+![Godot](https://img.shields.io/badge/Godot_4.6-2A1F14?style=for-the-badge&logo=godotengine&logoColor=C4956A)
+![Blender](https://img.shields.io/badge/Blender-1A1612?style=for-the-badge&logo=blender&logoColor=D4C4A8)
+![Aseprite](https://img.shields.io/badge/Aseprite-2A1F14?style=for-the-badge&logo=aseprite&logoColor=C4956A)
+![Git](https://img.shields.io/badge/Git-1A1612?style=for-the-badge&logo=git&logoColor=D4C4A8)
+![VS Code](https://img.shields.io/badge/VS_Code-2A1F14?style=for-the-badge&logo=visualstudiocode&logoColor=C4956A)
+![Discord](https://img.shields.io/badge/Discord-1A1612?style=for-the-badge&logo=discord&logoColor=D4C4A8)
 
 <br/>
 
