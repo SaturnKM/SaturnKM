@@ -87,9 +87,11 @@ When I'm not pushing commits, I'm thinking about game systems, robot diagrams, a
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SaturnKM&show_icons=true&theme=transparent&title_color=C4956A&text_color=D4C4A8&icon_color=8B6340&border_color=2A1F14&hide_border=false&ring_color=C4956A"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=SaturnKM&theme=transparent&background=00000000&border=2A1F14&stroke=C4956A&ring=C4956A&fire=E8D5B8&currStreakNum=D4C4A8&sideNums=D4C4A8&currStreakLabel=C4956A&sideLabels=8B6340&dates=8B6340&hide_border=false" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaturnKM&layout=compact&theme=transparent&title_color=C4956A&text_color=D4C4A8&border_color=2A1F14"/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaturnKM&bg_color=08060400&color=C4956A&line=8B6340&point=E8D5B8&area=true&area_color=C4956A&border_color=2A1F14&hide_border=false" />
 
 </div>
 
