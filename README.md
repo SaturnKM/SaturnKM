@@ -99,6 +99,33 @@ When I'm not pushing commits, I'm thinking about game systems, robot diagrams, a
 
 ---
 
+---
+
+<div align="center">
+
+## ◌ &nbsp; T H E &nbsp; V O I D &nbsp; S A Y S &nbsp; ◌
+
+<br/>
+
+```
+  "in the void of space and the silent of the place,
+      progress will be made, hidden between planes"
+```
+
+<br/>
+
+---
+
+## ◌ &nbsp; F I N D &nbsp; M E &nbsp; ◌
+
+<br/>
+
+[![itch.io](https://img.shields.io/badge/itch.io-saturnkm-2A1F14?style=for-the-badge&logo=itch.io&logoColor=C4956A)](https://saturnkm.itch.io/)
+
+<br/>
+
+---
+
 <div align="center">
 
 ```
