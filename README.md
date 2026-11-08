@@ -91,13 +91,11 @@ When I'm not pushing commits, I'm thinking about game systems, robot diagrams, a
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaturnKM&bg_color=08060400&color=C4956A&line=8B6340&point=E8D5B8&area=true&area_color=C4956A&border_color=2A1F14&hide_border=false" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaturnKM&bg_color=080604&color=C4956A&line=8B6340&point=E8D5B8&area=true&area_color=C4956A&border_color=2A1F14&hide_border=false" />
 
 </div>
 
 <br/>
-
----
 
 ---
 
@@ -112,15 +110,21 @@ When I'm not pushing commits, I'm thinking about game systems, robot diagrams, a
       progress will be made, hidden between planes"
 ```
 
+</div>
+
 <br/>
 
 ---
+
+<div align="center">
 
 ## ◌ &nbsp; F I N D &nbsp; M E &nbsp; ◌
 
 <br/>
 
 [![itch.io](https://img.shields.io/badge/itch.io-saturnkm-2A1F14?style=for-the-badge&logo=itch.io&logoColor=C4956A)](https://saturnkm.itch.io/)
+
+</div>
 
 <br/>
 
