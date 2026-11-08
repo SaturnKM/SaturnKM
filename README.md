@@ -91,7 +91,7 @@ When I'm not pushing commits, I'm thinking about game systems, robot diagrams, a
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaturnKM&bg_color=080604&color=C4956A&line=8B6340&point=E8D5B8&area=true&area_color=C4956A&border_color=2A1F14&hide_border=false" />
+<img width="100%" src="https://raw.githubusercontent.com/SaturnKM/SaturnKM/output/snake.svg" alt="contribution snake" />
 
 </div>
 
